@@ -2,7 +2,7 @@
 
 FROM ubuntu:20.04
 
-LABEL mainteiner="ap pabloarizono@gmail.com" 
+LABEL mainteiner="ap pabloarizono@xxxx.com" 
 
 # Establecer el locale
 RUN apt-get update && apt-get install -y locales
