@@ -13,10 +13,10 @@ El siguiente paso es levantar la imagen de docker , para eso ejecuta el comando 
 
 - Ya dentro del file: challenge.ipynb, inicialmente ejecuta solo la primera celda para confirmar el requisito tecnico principal y que la configuracion original no ha sufrido ningun cambio:
 
-        Versión de Python : !python3 --version
+        !python3 --version
 
-        Versión de PySpark  import pyspark
-                            print(pyspark.__version__)
+        import pyspark
+        print(pyspark.__version__)
 
 Tiene que tener el siguiente ouput : Python 3.6 y Pyspark 3.2
 
