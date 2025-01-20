@@ -1,0 +1,13 @@
+version: '3'
+services:
+  jupyter-spark:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./datasets:/home/jovyan/work
+    environment:
+      - PYSPARK_PYTHON=/usr/bin/python3
+      - PYSPARK_DRIVER_PYTHON=/usr/bin/python3
+    container_name: gd-challenge-jupy-spark-py36
+    tty: true
