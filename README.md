@@ -24,15 +24,27 @@ Si es asi, ya puedes ejecutar el resto de celdas una a una, o todo el notebook c
 Una vez terminada la ejecucion debes tener como salida en cada celda lo siguiente :
 
 
+
 ## Paso 1: Monto Total a Facturar
 El monto total a facturar por el proveedor por SMS es: **$ 140757.0**.
+
+
+
+
 
 ## Paso 2: Generar y exportar Dataset 
 El dataset con los 100 clientes con mayor facturación ha sido generado y guardado en formato Parquet. La ruta a los archivos:
 - [max_billing.parquet](datasets/output/max_billing) 
 
+
+
+
+
 ## Paso 3: Histograma de Llamadas por Horas
-El histograma de llamadas por hora se generó y guardó como una imagen en formato PNG. La ruta al grafico es la siguiente:
+El histograma de llamadas por hora se generó y guardó como una imagen en formato PNG. La ruta al grafico es la siguiente: (click en la imagen)
+
+
+
 ![Histograma](datasets/output/histograma_llamadas.png)
 
 
