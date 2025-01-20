@@ -49,9 +49,10 @@ El histograma de llamadas por hora se generó y guardó como una imagen en forma
 
 
 - Una vez terminada la  ultima celda y guardado el grafico ,la sesion se Spark se cerrara, pero el servicio de jupyter sigue activo, para terminarlo, se debera volver a la consola del servicio y precionar Ctrl + C , y luego ejecutar el comando  :
-             docker-compose down
+        
+        docker-compose down
 
-Para asi terminar la sesion de Jupyter
+
 
 
 
