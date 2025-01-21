@@ -118,7 +118,7 @@ Se solicita utilizar la mitad de recursos en el proceso Spark :
                 36cores/2  = 18cores
 
 
-- Configuracion de Spark :
+Configuracion de Spark :
 
         - Un ejecutor por nodo (se utilizara la mitad)
         - Memoria : 25gb por ejecutor (75gb/3)   
@@ -126,7 +126,7 @@ Se solicita utilizar la mitad de recursos en el proceso Spark :
         - Overhead : no solicita
         - Driver : no solicita
 
-- Implementacion en Spark :  
+Implementacion en Spark :  
 
 
         spark = SparkSession.builder \
@@ -138,5 +138,5 @@ Se solicita utilizar la mitad de recursos en el proceso Spark :
 
                 
 
-- ![SparkSet_consigna2.3] (datasets/SparkSet_consigna2.3.ipynb)
+![SparkSet_consigna2.3] (datasets/SparkSet_consigna2.3.ipynb)
 
