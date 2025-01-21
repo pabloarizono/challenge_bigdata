@@ -138,4 +138,5 @@ Se solicita utilizar la mitad de recursos en el proceso Spark :
 
                 
 
-- ![SparkSet_consigna2.3](datasets/SparkSet_consigna2.3)
+- ![SparkSet_consigna2.3] (datasets/SparkSet_consigna2.3.ipynb)
+
