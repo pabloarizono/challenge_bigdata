@@ -138,5 +138,5 @@ Implementacion en Spark :
 
                 
 
-![SparkSet_consigna2.3] (datasets/SparkSet_consigna2.3.ipynb)
+![SparkSet_consigna2.3](datasets/SparkSet_consigna2.3.ipynb)
 
