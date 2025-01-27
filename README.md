@@ -6,7 +6,7 @@ En este proyecto se resuelven 3 consignas practicas de desarrollo y codigo y tre
 
 
 ## Instrucciones para Ejecutar el Proyecto
-- Clonar el Repositorio o descomprimir el archivo rar en una carpera, luego en la terminal situarte en el path donde hayas descomprimido o bajado los archivos.
+- Clonar el Repositorio o descomprimir el archivo rar en una carpeta, luego en la terminal situarte en el path donde hayas descomprimido o bajado los archivos.
 El siguiente paso es levantar la imagen de docker , para eso ejecuta el comando que te dejo acontinuacion, tener en cuenta que este paso es el que mas demora presenta recomiendo esperar y estar atento a la terminal por si arroja algun error : 
 
          docker-compose up --build  
